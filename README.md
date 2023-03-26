@@ -1,0 +1,1 @@
+# EC_IT143_W12.1_fwt_s1_UM.sql
